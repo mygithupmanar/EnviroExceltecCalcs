@@ -9,7 +9,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "file":"C:\\Users\\User\\Desktop\\Univ\\Work\\Tasks\\Task1\\calculate\\Html\\index.html",
+            "file":"C:\\Users\\User\\Desktop\\Univ\\Work\\Tasks\\Task1\\calculate\\Html\\TestData.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
